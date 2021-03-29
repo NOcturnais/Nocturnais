@@ -12,4 +12,4 @@ Salut, mwa jm'appelle NOctu et je suce bcp ! J'fais principalement du java mais 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=nocturnais&show_icons=true&hide_border=true)
-[![ Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=nocturnais&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
+[![ Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NOctu&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
