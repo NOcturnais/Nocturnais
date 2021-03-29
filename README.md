@@ -12,3 +12,5 @@ Salut, mwa jm'appelle NOctu et je suce bcp ! J'fais principalement du java mais 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ![Mes stats Github](https://github-readme-stats.vercel.app/api?username=nocturnais&show_icons=true&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
