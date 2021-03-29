@@ -1,4 +1,4 @@
-### Kuku twa
+## Hey
 
 <a href="https://discord.gg/palafans">
   <img align="left" alt="Mehdi's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
